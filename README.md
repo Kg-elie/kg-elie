@@ -1,5 +1,5 @@
 <img width="30px" margin="0px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">
-<h1>Hello there! I am <a href="https://github.com/Kg-elie">Elie</a> <img height="30px" src="https://giphy.com/embed/xUPGcigl4eOfc6hA5y"></h1>
+<h1>Hello there! I am <a href="https://github.com/Kg-elie">Elie</a> <img height="30px" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWJubmI0N3VhNzlhdm9yc2J4ampyMzRoNWxzazltdDZjdzlxNTdiMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGcigl4eOfc6hA5y/giphy.gif"></h1>
 </h1>
 
 ### 📬 Find me at
