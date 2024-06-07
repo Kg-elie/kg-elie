@@ -1,4 +1,4 @@
-## Hi there 👋
+### Bonjour 👋 c'est moi Elie Kanga
 
 <!--
 **Kg-elie/kg-elie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### à Propos de moi ...
+Passionné par les sciences et les nouvelles technologies, je suis actuellement en Master 1 ISD à l'Université Paris-Saclay. Je cherche à approfondir mes connaissances et à mettre en pratique mes acquis théoriques en entreprise. Avec une solide formation en informatique et des expériences variées, je suis motivé à contribuer et à apprendre au sein d'une équipe dynamique.
+
