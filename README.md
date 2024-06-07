@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 ### à Propos de moi ...
 Passionné par les sciences et les nouvelles technologies, je suis actuellement en Master 1 ISD à l'Université Paris-Saclay. Je cherche à approfondir mes connaissances et à mettre en pratique mes acquis théoriques en entreprise. Avec une solide formation en informatique et des expériences variées, je suis motivé à contribuer et à apprendre au sein d'une équipe dynamique.
 
+### Les langages maitrisés
+![python-programming-language](https://github.com/Kg-elie/kg-elie/assets/91365948/843d362d-aa96-47a5-bfc8-2f2889b8d337)
