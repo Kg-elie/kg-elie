@@ -1,10 +1,9 @@
-<h1>Hello there! I am <a href="https://github.com/Kg-elie">Elie</a> <img height="60px" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWJubmI0N3VhNzlhdm9yc2J4ampyMzRoNWxzazltdDZjdzlxNTdiMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGcigl4eOfc6hA5y/giphy.gif"></h1>
+<h1>Bonjour, je suis <a href="https://github.com/Kg-elie">Elie</a> <img height="120px" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWJubmI0N3VhNzlhdm9yc2J4ampyMzRoNWxzazltdDZjdzlxNTdiMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGcigl4eOfc6hA5y/giphy.gif"></h1>
 </h1>
 
 ### 📬 Find me at
 
-[![GitHub Badge](https://img.shields.io/badge/GitHub-brightgreen?style=flat&logo=github)](https://github.com/WanisC)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wanischouaib/)](https://www.linkedin.com/in/wanis-chouaib-7b327b251/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/elie-kanga/)](https://www.linkedin.com/in/elie-kanga/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:eliekanga18@gmail.com)](mailto:eliekanga18@gmail.com)
 
 
