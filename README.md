@@ -13,6 +13,6 @@ Passionné par les sciences et les nouvelles technologies, je suis actuellement 
 
 ### ⚙️ Languages de programmation
 
-<img height="30px" src="https://slackmojis.com/emojis/32-python/download"> <img height="30px" src="https://slackmojis.com/emojis/3795-cpp/download"> <img height="30px" src="https://slackmojis.com/emojis/4638-c-lang/download"> <img height="30px" src="https://slackmojis.com/emojis/66260-rust/download"> <img height="30px" src="https://slackmojis.com/emojis/2990-oracle/download"> <img height="30px" src="https://slackmojis.com/emojis/4439-mysql/download"> <img height="30px" src="https://slackmojis.com/emojis/4425-nodejs/download">
+<img height="30px" src="https://slackmojis.com/emojis/32-python/download">  <img height="30px" src="https://slackmojis.com/emojis/4638-c-lang/download"> <img height="30px" src="https://slackmojis.com/emojis/66260-rust/download"> <img height="30px" src="https://slackmojis.com/emojis/2990-oracle/download"> <img height="30px" src="https://slackmojis.com/emojis/4439-mysql/download"> <img height="30px" 
 
 
