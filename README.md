@@ -22,6 +22,4 @@ I like to explore and build projects on topics I've studied throughout my years 
 
 <img height="30px" src="https://slackmojis.com/emojis/32-python/download"> <img height="30px" src="https://slackmojis.com/emojis/3795-cpp/download"> <img height="30px" src="https://slackmojis.com/emojis/4638-c-lang/download"> <img height="30px" src="https://slackmojis.com/emojis/66260-rust/download"> <img height="30px" src="https://slackmojis.com/emojis/2990-oracle/download"> <img height="30px" src="https://slackmojis.com/emojis/4439-mysql/download"> <img height="30px" src="https://slackmojis.com/emojis/4425-nodejs/download">
 
-### 📊 Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WanisC)](https://github.com/WanisC/github-readme-stats) <img src="https://tryhackme-badges.s3.amazonaws.com/cWano.png" alt="THM">
